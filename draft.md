@@ -26,7 +26,7 @@ But being able to communicate your work to a wide audience is a crucial skill fo
 
 Going back to that intro story, I believe I finally can  explain the core ideas behind my research in a way that is accessible, even for my gameoskeptic aunt. The answer was right under my nose, in the form of a **strawberry shortcake**.
 
-### 1.  Playing is Eating
+### 1.  Playing is like Eating
 
 ![Characters from the Witcher franchise eating together. This is a modded screenshot"](img/post/witcher-dinner.jpg)
 
@@ -36,14 +36,16 @@ When you look closely, a Ramadan family dinner or a Dungeon & Dragons afternoon 
 
 In the end, whether it is by playing or  by eating, you're consuming **a good that someone had made with work and care**. They spent time to create an experience, hoping you'll love its taste. How did they do that?
 
-### 2.  Game Design is Cooking
+### 2.  Game Design is like Cooking
+
+  ![Breath of the Wild" Character throwing ingredients in a pot to create a meal.](img/post/botw-cooking.gif)
 
 Making meals and making games are both crafts that requires you to spend time mastering them. It is very easy when you're a beginner to try making complex productions, only to be disappointed in the result. But like all craft, cooking and game design require you to be patient, to learn things step by step, and to fail a lot.
 
 The reason behind that is that fundamentally, they are **complex alchemies**: you gather ingredients and their properties combine in a way that can **create an explosion of flavors**. These kind of alchemies are not easy to master, because of their main feature
 
 
- #### Surprising combinations (or *Emergence*)
+ #### Surprising combinations
 
   ![Illustration of a peanut butter and jelly sandwhich.](img/post/strawberry-cream.png)
 
@@ -62,21 +64,26 @@ To sum up, both game design and cooking are complex alchemies because of the way
 
 But where can you get ingredients? Where do these strawberries come from?
 
-### 3. Procedural Generation is Planting
+### 3. Procedural Generation is like Planting
 
 ![Plants growing, from the game Viridi](img/post/viridi-grow.gif)
 
-At the farmer's market! Great cooks have the skill to carefully choose their ingredients and to assess their quality. In the game world, designers too are always on the lookout for interesting ideas that they can use as ingredients for their games.
+"*At the farmer's market, duh!*" Great cooks have the skill to carefully choose their ingredients and to assess their quality. In the game world, designers too are always on the lookout for interesting ideas that they can use as ingredients for their games.
 
-But where do these ingredients come from?
-Cooks rarely grow their own food — it's someone else's job.
+But where do these ingredients *actually* come from?
+Cooks rarely grow their own food — it's someone else's job.    
 But game designers don't have this commodity. Their work is not only to think about the composition of their rule-ingredients, they also have to create them from scratch each time! They have **both the job of a gardener and a cook**.
 
 A bit unfair, right?
 
-This the part where I come in! my goal is to use computers to **create gardening tools for  game designers** to help them grow their ingredients. This whole field of research is named *Procedural Generation*.
+This the part where I come in! The goal of my PhD is to use computers to **create gardening tools for  game designers** to help them grow their ingredients. This whole field of research is named _**Procedural Generation**_ and raises a lot of interesting questions. What kind of experiences will we able to make with access to new ingredients? How can computers actually grow things that are useful to humans?
+
+
+
+I'll do my best to share my findings with you, so keep an eye on **[Strawberry Seeds](http://strawberryseeds.github.io)** !
 
 Younès Rabii - Contact (Twitter, Mail)
+
 
 
 
@@ -89,3 +96,12 @@ Animal Crossing: Original by Shelby Brown/CNET. Photoshopped by myself.
 [Strawberry Cream](https://www.pngegg.com/en/png-brbho/download)
 
 Viridi - Ice Water Games
+
+
+
+Note:
+- Context: blog work-in progress
+- Theme CSS?
+- Image check (dimension)
+- Credits
+- Fin: expliquer pourquoi Strawberry seeds, ou juste réserver ça pour l'article étendu / une section à propos ? "I made this blogpost comparing Making games to cooking and I believe this analogy is powerful"
