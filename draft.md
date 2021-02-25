@@ -11,12 +11,12 @@
 >
 > You take a deep breath. Here we go.
 
-Ever since high school, I've always found it pretty difficult to explain what I'm currently studying, be it with friends or family. Now that I've started a PhD at **[IGGI](https://iggi.org.uk/)** (UK), its starting to get trickier. My research subject is about how to "*Generate Coherent and Meaningful New Playable Characters*". Its a very specific topic, at the crossroads of procedural generation, game design, and AI.
+Ever since high school, I've always found it pretty difficult to explain what I'm currently studying, be it to friends or family. Now that I've started a PhD at **[IGGI](https://iggi.org.uk/)** (UK), its starting to get trickier. My research subject is about how to "*Generate Coherent and Meaningful New Playable Characters*". Its a very specific topic, at the crossroads of procedural generation, game design, and artificial intelligence.
 
-If I wanted to explain that to my kind but over-protective aunt, I would need to start by:
-1. evidencing that playing games is actually a good thing,
-1. that there are people who are trying to make them even better and
-1. that we can use computers as creative tools.
+If I wanted to explain that to my kind but over-protective aunt, I would need to start by evidencing that:
+1. playing games is actually a good thing,
+1. there are people who are trying to make them even better and
+1. we can use computers as creative tools
 
 Yeah. Not so easy.
 
@@ -36,7 +36,7 @@ In the end, whether it is by playing or  by eating, you're consuming **a good th
 
 ### 2.  Game Design is Cooking
 
-Making meals and making games are both crafts that requires you to spend time mastering them. It is very easy when you're a beginner to try making complex _____ (crafts? productions?), only to be disappointed in the result. But like all craft, cooking and game design require you to be patient, to learn things step by step, and to fail a lot.
+Making meals and making games are both crafts that requires you to spend time mastering them. It is very easy when you're a beginner to try making complex productions, only to be disappointed in the result. But like all craft, cooking and game design require you to be patient, to learn things step by step, and to fail a lot.
 
 The reason behind that is that fundamentally, they are **complex alchemies**: you gather ingredients and their properties combine in a way that can **create an explosion of flavors**. These kind of alchemies are not easy to master, because of two main challenges:
 
@@ -47,15 +47,22 @@ The reason behind that is that fundamentally, they are **complex alchemies**: yo
 
   If you make a sandwich with peanut butter and jam, you might already have a very good idea of how it will taste. But what about **white chocolate and caviar**? Would it taste good?
 
-  Well surprinsgly, the answer seem to be: Yes. They go together well enough to be used by a [ surprised but delighted chef](https://www.theguardian.com/lifeandstyle/2002/may/04/foodanddrink.shopping). Something about the salt of caviar complementing the sweetness of the chocolate.
+  Well surprinsgly, the answer seem to be: Yes. They go together well enough to be used by a [ surprised but delighted chef](https://www.theguardian.com/lifeandstyle/2002/may/04/foodanddrink.shopping). Something about the caviar's salt complementing the sweetness of the chocolate. You couldn't really know that without testing it.
+
+  Surprising combinations are at the heart of cooking. We've had about the same ingredients for centuries, but we're still able to mix them in order to create a totally new taste, that is completely different from each ingredient individually.
+
+   ![ ](img/post/mda-food.png)
+
+   Designing games works exactly like that. To simplify, let's say that the ingredients game designer use are the rules of the game. Their whole job is to find a way to combine rules that will create interesting dynamics in which to engage players — with the ultimate goal of leaving a pleasant impression on them.
+
 
 - #### Complex ingredients (or *Multi-domain*)
+Its not just about taste though. Skilled cooks make the most of their ingredients and use not only their flavor, but also their texture and visual aspect. When eating a meal, almost all of your sensory canals are used. If even one aspect of a dish is of poor quality, the whole experience is ruined.
 
+![ ](img/post/five-senses.jpg)
 
-Its not just about taste though.
-
-
-
+==> both need to always new things with their ingredients
+ Like cooking, this requires to always try new things
 
 ### 3. Procedural Generation is Planting
 
@@ -77,12 +84,16 @@ algorithm
 planting strawberry seeds
 
 #### we could go further
+
+powerful analogy
 care about the process, the context not just the end result
+-- Infinite Rembrant, Infinite Oatmeal
 
 processed food and triple AAA
 but discussions for another time.
 follow us
 here, on strawberry seed !
+((next time, I'll tell you why I chose strawberries
 
 Younès Rabii - Contact (Twitter, Mail)
 
@@ -97,3 +108,5 @@ Animal Crossing: Original by Shelby Brown/CNET. Photoshopped by myself.
 [Doodlewash](https://doodlewash.com/like-peanut-butter-and-jelly/)
 
 Viridi - Ice Water Games
+
+[Five senses picture](https://ercare24.com/five-senses/)
