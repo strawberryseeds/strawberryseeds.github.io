@@ -3,7 +3,7 @@
 ![Two Animal Crossing characters by a campfire, eating fish. One asks the other: "So, what's your PhD about?"](img/post/animal-crossing-phd.png)
 
 
-> You take a seat at the table. Everything looks delicious, you can't wait to dive in. Your aunt passes you the salad. "*How is it going at school? Isn't it lonely to be all by yourself?*", she asks. Your eyes still on your plate, your tongue moves by itself. "*It's going fine! I got my diploma last semester*". Small silence. She's still processing. You know where this is going.
+> You take a seat at the table. Everything looks delicious, you can't wait to dive in. Your aunt passes serves you cake. "*How is it going at school? Isn't it lonely to be all by yourself?*", she asks. Your eyes still on your plate, your tongue moves by itself. "*It's going fine! I got my diploma last semester*". Small silence. She's still processing. You know where this is going.
 "*Oh, very good! I didn't know that. So what are you doing now? Job hunting?*". You still have a couple of seconds, quick find an expl-"*Actually, I've started a PhD!*". Oh no. You went too fast. It's coming any second now. Brace yourself.
 >
 >
@@ -22,13 +22,15 @@ Yeah. Not so easy.
 
 But being able to communicate your work to a wide audience is a crucial skill for a researcher. After all, what good can we do to the world, if nobody understands what we're doing? That's why I'm starting this little blog: I want to be able to share all the exciting stuff I'm working on with everyone who'd like to hear a little more about games. How we make them, what they mean to us, and especially, **how games can pleasantly surprise us**.
 
-Going back to that intro story, I believe I finally can  explain the core ideas behind my research in a way that is accessible, even for my gameoskeptic aunt. The answer was right under my nose, on the table.
+![](img/post/strawberry-cake.png)
+
+Going back to that intro story, I believe I finally can  explain the core ideas behind my research in a way that is accessible, even for my gameoskeptic aunt. The answer was right under my nose, in the form of a **strawberry shortcake**.
 
 ### 1.  Playing is Eating
 
 ![Characters from the Witcher franchise eating together. This is a modded screenshot"](img/post/witcher-dinner.jpg)
 
-At their core, playing and eating are the same thing. Hey, think about it. Everyone has their own favorite dishes, and also their favorite game genres. We consume both food and games as a way to comfort ourselves, to relieve stress or just to have a good time.
+At their core, playing and eating are the same thing. Hey, think about it. Everyone has their own favorite dishes, and also their favorite own game genres. We consume both food and games as a way to comfort ourselves, to relieve stress or just to have a good time.
 
 When you look closely, a Ramadan family dinner or a Dungeon & Dragons afternoon are both excuses to create a context where we can have fulfilling social relationships.
 
@@ -38,16 +40,16 @@ In the end, whether it is by playing or  by eating, you're consuming **a good th
 
 Making meals and making games are both crafts that requires you to spend time mastering them. It is very easy when you're a beginner to try making complex productions, only to be disappointed in the result. But like all craft, cooking and game design require you to be patient, to learn things step by step, and to fail a lot.
 
-The reason behind that is that fundamentally, they are **complex alchemies**: you gather ingredients and their properties combine in a way that can **create an explosion of flavors**. These kind of alchemies are not easy to master, because of two main challenges:
+The reason behind that is that fundamentally, they are **complex alchemies**: you gather ingredients and their properties combine in a way that can **create an explosion of flavors**. These kind of alchemies are not easy to master, because of their main feature
 
 
-- #### Surprising combinations (or *Emergence*)
+ #### Surprising combinations (or *Emergence*)
 
-  ![Illustration of a peanut butter and jelly sandwhich.](img/post/sandwich.png)
+  ![Illustration of a peanut butter and jelly sandwhich.](img/post/strawberry-cream.png)
 
-  If you make a sandwich with peanut butter and jam, you might already have a very good idea of how it will taste. But what about **white chocolate and caviar**? Would it taste good?
+  If you make a cup of strawberries and cream, you might already have a very good idea of how it will taste. But what about **white chocolate and caviar**? Would it taste good?
 
-  Well surprinsgly, the answer seem to be: Yes. They go together well enough to be used by a [ surprised but delighted chef](https://www.theguardian.com/lifeandstyle/2002/may/04/foodanddrink.shopping). Something about the caviar's salt complementing the sweetness of the chocolate. You couldn't really know that without testing it.
+  Well surprisingly, the answer seem to be: Yes. They go together well enough to be used by a [ surprised but delighted chef](https://www.theguardian.com/lifeandstyle/2002/may/04/foodanddrink.shopping). Something about the caviar's salt complementing the sweetness of the chocolate. You couldn't really know that without testing it.
 
   Surprising combinations are at the heart of cooking. We've had about the same ingredients for centuries, but we're still able to mix them in order to create a totally new taste, that is completely different from each ingredient individually.
 
@@ -56,44 +58,23 @@ The reason behind that is that fundamentally, they are **complex alchemies**: yo
    Designing games works exactly like that. To simplify, let's say that the ingredients game designer use are the rules of the game. Their whole job is to find a way to combine rules that will create interesting dynamics in which to engage players — with the ultimate goal of leaving a pleasant impression on them.
 
 
-- #### Complex ingredients (or *Multi-domain*)
-Its not just about taste though. Skilled cooks make the most of their ingredients and use not only their flavor, but also their texture and visual aspect. When eating a meal, almost all of your sensory canals are used. If even one aspect of a dish is of poor quality, the whole experience is ruined.
+To sum up, both game design and cooking are complex alchemies because of the way they have to use their ingredients. Both of them also require you to always try new combinations in order to progress.
 
-![ ](img/post/five-senses.jpg)
-
-==> both need to always new things with their ingredients
- Like cooking, this requires to always try new things
+But where can you get ingredients? Where do these strawberries come from?
 
 ### 3. Procedural Generation is Planting
 
-![Plants growing, from the game Viridi](img/post/viridi-grow_.gif)
+![Plants growing, from the game Viridi](img/post/viridi-grow.gif)
 
-growing the ingredients
+At the farmer's market! Great cooks have the skill to carefully choose their ingredients and to assess their quality. In the game world, designers too are always on the lookout for interesting ideas that they can use as ingredients for their games.
 
-behave like plants
-start with an initial seed (have the same name)
-that you take care of, following a procedure like having a certain amount of luminosity, watering it with at a specific pace.
+But where do these ingredients come from?
+Cooks rarely grow their own food — it's someone else's job.
+But game designers don't have this commodity. Their work is not only to think about the composition of their rule-ingredients, they also have to create them from scratch each time! They have **both the job of a gardener and a cook**.
 
-Write it on a list.
+A bit unfair, right?
 
-More importantly: trial and error. There will be a lot of dead plants at the beginning. But as you try things out, you start to get a sense of what works, and what doesn't.
-
-algorithm
-
-
-planting strawberry seeds
-
-#### we could go further
-
-powerful analogy
-care about the process, the context not just the end result
--- Infinite Rembrant, Infinite Oatmeal
-
-processed food and triple AAA
-but discussions for another time.
-follow us
-here, on strawberry seed !
-((next time, I'll tell you why I chose strawberries
+This the part where I come in! my goal is to use computers to **create gardening tools for  game designers** to help them grow their ingredients. This whole field of research is named *Procedural Generation*.
 
 Younès Rabii - Contact (Twitter, Mail)
 
@@ -105,8 +86,6 @@ Animal Crossing: Original by Shelby Brown/CNET. Photoshopped by myself.
 
 (Modded) Witcher 3: Screenshot by u/Outspokenbeef15 on Reddit.
 
-[Doodlewash](https://doodlewash.com/like-peanut-butter-and-jelly/)
+[Strawberry Cream](https://www.pngegg.com/en/png-brbho/download)
 
 Viridi - Ice Water Games
-
-[Five senses picture](https://ercare24.com/five-senses/)
