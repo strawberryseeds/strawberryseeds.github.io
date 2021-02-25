@@ -1,4 +1,4 @@
-## My Jam? Planting Strawberry Seeds.
+# My Jam? Planting Strawberry Seeds.
 
 ![Two Animal Crossing characters by a campfire, eating fish. One asks the other: "So, what's your PhD about?"](img/post/animal-crossing-phd.png)
 
@@ -26,7 +26,7 @@ But being able to communicate your work to a wide audience is a crucial skill fo
 
 Going back to that intro story, I believe I finally can  explain the core ideas behind my research in a way that is accessible, even for my gameoskeptic aunt. The answer was right under my nose, in the form of a **strawberry shortcake**.
 
-### 1.  Playing is like Eating
+## 1.  Playing is like Eating
 
 ![Characters from the Witcher franchise eating together. This is a modded screenshot"](img/post/witcher-dinner.jpg)
 
@@ -36,7 +36,7 @@ When you look closely, a Ramadan family dinner or a Dungeon & Dragons afternoon 
 
 In the end, whether it is by playing or  by eating, you're consuming **a good that someone had made with work and care**. They spent time to create an experience, hoping you'll love its taste. How did they do that?
 
-### 2.  Game Design is like Cooking
+## 2.  Game Design is like Cooking
 
   ![Breath of the Wild" Character throwing ingredients in a pot to create a meal.](img/post/botw-cooking.gif)
 
@@ -45,7 +45,7 @@ Making meals and making games are both crafts that requires you to spend time ma
 The reason behind that is that fundamentally, they are **complex alchemies**: you gather ingredients and their properties combine in a way that can **create an explosion of flavors**. These kind of alchemies are not easy to master, because of their main feature
 
 
- #### Surprising combinations
+### Surprising combinations
 
   ![Illustration of a peanut butter and jelly sandwhich.](img/post/strawberry-cream.png)
 
@@ -64,7 +64,7 @@ To sum up, both game design and cooking are complex alchemies because of the way
 
 But where can you get ingredients? Where do these strawberries come from?
 
-### 3. Procedural Generation is like Planting
+## 3. Procedural Generation is like Planting
 
 ![Plants growing, from the game Viridi](img/post/viridi-grow.gif)
 
