@@ -43,7 +43,7 @@ In the end, whether it is by playing or  by eating, you're consuming **a good th
 ## 2.  Game Design is like Cooking
 
 <div style="text-align:center">
-<img src="img/post/botw-cooking.gif" alt="Breath of the Wild" Character throwing ingredients in a pot to create a meal." />
+<img src="img/post/botw-cooking.gif" alt="Breath of the Wild Character throwing ingredients in a pot to create a meal." />
 </div>
 <br/>
 
