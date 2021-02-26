@@ -86,6 +86,11 @@ A bit unfair, right?
 
 This the part where I come in! The goal of my PhD is to use computers to **create gardening tools for  game designers** to help them grow their ingredients. If game designers are making strawberry cake, I want to **plant strawberry seeds**.
 
+<div style="text-align:center">
+<img src="img/post/strawberry.png" alt="A pixelated strawberry shortcake"  width="100px"/>
+</div>
+<br/>
+
 This whole field of research is named _Procedural Generation_ and raises a lot of interesting questions. What kind of experiences will we able to make with access to new ingredients? How can computers actually grow things that are useful to humans?
 
 
