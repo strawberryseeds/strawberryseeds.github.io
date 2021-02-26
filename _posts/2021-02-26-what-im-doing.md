@@ -16,7 +16,7 @@ categories: first post
 >
 > You take a deep breath. Here we go.
 
-Ever since high school, I've always found it pretty difficult to explain what I'm currently studying, especially with to my family. Now that I've started a PhD at **[IGGI](https://iggi.org.uk/)** (UK), its starting to get trickier. My research subject is titled "_**Generating Coherent and Meaningful New Playable Characters**_". Its a very specific topic, at the crossroads of procedural generation, game design, and human/computer interaction.
+Ever since high school, I've always found it pretty difficult to explain what I'm currently studying, especially to my family. Now that I've started a PhD at **[IGGI](https://iggi.org.uk/)** (UK), its starting to get trickier. My research subject is titled "_**Generating Coherent and Meaningful New Playable Characters**_". Its a very specific topic, at the crossroads of procedural generation, game design, and human/computer interaction.
 
 If I wanted to explain that to my kind but over-protective aunt, I would need to start by evidencing that:
 1. Playing games is actually a good thing
@@ -42,7 +42,7 @@ At their core, playing and eating are the same thing. Hey, think about it. Every
 
 When you look closely, a Ramadan family dinner or a Dungeon & Dragons afternoon are both excuses to create a context where we can have fulfilling social relationships.
 
-In the end, whether it is by playing or  by eating, you're consuming **a good that someone had made with work and care**. They spent time to create an experience, hoping you'll love its taste. How did they do that?
+In the end, whether it is by playing or  by eating, you're consuming **a good that someone has made with work and care**. They spent time to create an experience, hoping you'll love its taste. How did they do that?
 
 ## 2.  Game Design is like Cooking
 
@@ -53,7 +53,7 @@ In the end, whether it is by playing or  by eating, you're consuming **a good th
 
 Making meals and making games are both crafts that requires you to spend time mastering them. It is very easy when you're a beginner to try making complex productions, only to be disappointed in the result. But like all craft, cooking and game design require you to be patient, to learn things step by step, and to fail a lot.
 
-The reason behind that is that fundamentally, they are **complex alchemies**: you gather ingredients and their properties combine in a way that can **create an explosion of flavors**. These kind of alchemies are not easy to master, because of their main feature
+The reason behind that is that fundamentally, they are **complex alchemies**. You gather ingredients and their properties combine in a way that can **create an explosion of flavors**. These kind of alchemies are not easy to master, because of their main feature:
 
 
 ### Surprising combinations
