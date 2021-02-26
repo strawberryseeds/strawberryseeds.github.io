@@ -23,7 +23,10 @@ Yeah. Not so easy.
 
 But being able to communicate your work to a wide audience is a crucial skill for a researcher. After all, what good can we do to the world, if nobody understands what we're doing? That's why I'm starting this little blog: I want to be able to share all the exciting stuff I'm working on with everyone who'd like to hear a little more about games. How we make them, what they mean to us, and especially, how **games can pleasantly surprise us**.
 
-![](img/post/strawberry-cake.png)
+<div style="text-align:center">
+<img src="img/post/strawberry-cake.png" alt="A pixelated strawberry shortcake" width="250px"/>
+</div>
+<br/>
 
 Going back to that intro story, I believe I can  explain the core ideas behind my research in a way that is accessible, even for my gameoskeptic aunt. The answer was right under my nose, on the table. A **strawberry shortcake**.
 
@@ -42,6 +45,7 @@ In the end, whether it is by playing or  by eating, you're consuming **a good th
 <div style="text-align:center">
 <img src="img/post/botw-cooking.gif" alt="Breath of the Wild" Character throwing ingredients in a pot to create a meal." />
 </div>
+<br/>
 
 Making meals and making games are both crafts that requires you to spend time mastering them. It is very easy when you're a beginner to try making complex productions, only to be disappointed in the result. But like all craft, cooking and game design require you to be patient, to learn things step by step, and to fail a lot.
 
@@ -91,7 +95,7 @@ I'll do my best to share my findings with you, so keep an eye on **[Strawberry S
 <img src="img/post/younès-avatar.png " alt="An avatar of me, made with picrew " width="250px">
 
 
-_**Younès Rabii** is a game designer and PhD student at the Doctoral Centre for Intelligence in Games and Games Intelligence._
+_**Younès Rabii** is a game designer and PhD student at the Doctoral Centre for Intelligence in Games and Games Intelligence. To this day, they are still thinking of another sentence to add. Maybe they could make a program to generate short biographies?_
 
 - Mail: [yrabii.eggs@gmail.com](mailto:yrabii.eggs@gmail.com)
 - Twitter: [@Pyrofoux](https://twitter.com/Pyrofoux)
