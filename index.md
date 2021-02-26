@@ -1,5 +1,5 @@
 
-# My Jam? Planting Strawberry Seeds.
+# What I'm doing? Planting Strawberry Seeds.
 
 ![Two Animal Crossing characters by a campfire, eating fish. One asks the other: "So, what's your PhD about?"](img/post/animal-crossing-phd.png)
 
