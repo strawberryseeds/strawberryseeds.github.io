@@ -3,7 +3,7 @@
 ![Two Animal Crossing characters by a campfire, eating fish. One asks the other: "So, what's your PhD about?"](img/post/animal-crossing-phd.png)
 
 
-> You take a seat at the table. Everything looks delicious, you can't wait to dive in. Your aunt passes serves you cake. "*How is it going at school? Isn't it lonely to be all by yourself?*", she asks. Your eyes still on your plate, your tongue moves by itself. "*It's going fine! I got my diploma last semester*". Small silence. She's still processing. You know where this is going.
+> You take a seat at the table. Everything looks delicious, you can't wait to dive in. Your aunt serves you cake. "*How is it going at school? Is it hard to be all by yourself?*", she asks. Your eyes still on your plate, your lips moves by themselves. "*It's going fine! I got my diploma last semester*". Small silence. She's still processing. You know where this is going.
 "*Oh, very good! I didn't know that. So what are you doing now? Job hunting?*". You still have a couple of seconds, quick find an expl-"*Actually, I've started a PhD!*". Oh no. You went too fast. It's coming any second now. Brace yourself.
 >
 >
@@ -11,20 +11,20 @@
 >
 > You take a deep breath. Here we go.
 
-Ever since high school, I've always found it pretty difficult to explain what I'm currently studying, be it to friends or family. Now that I've started a PhD at **[IGGI](https://iggi.org.uk/)** (UK), its starting to get trickier. My research subject is about how to "*Generate Coherent and Meaningful New Playable Characters*". Its a very specific topic, at the crossroads of procedural generation, game design, and artificial intelligence.
+Ever since high school, I've always found it pretty difficult to explain what I'm currently studying, especially with to my family. Now that I've started a PhD at **[IGGI](https://iggi.org.uk/)** (UK), its starting to get trickier. My research subject is titled "_**Generating Coherent and Meaningful New Playable Characters**_". Its a very specific topic, at the crossroads of procedural generation, game design, and human/computer interaction.
 
 If I wanted to explain that to my kind but over-protective aunt, I would need to start by evidencing that:
-1. playing games is actually a good thing,
-1. there are people who are trying to make them even better and
-1. we can use computers as creative tools
+1. Playing games is actually a good thing
+1. There are people who are trying to make them even better
+1. We can use computers as creative assistants
 
 Yeah. Not so easy.
 
-But being able to communicate your work to a wide audience is a crucial skill for a researcher. After all, what good can we do to the world, if nobody understands what we're doing? That's why I'm starting this little blog: I want to be able to share all the exciting stuff I'm working on with everyone who'd like to hear a little more about games. How we make them, what they mean to us, and especially, **how games can pleasantly surprise us**.
+But being able to communicate your work to a wide audience is a crucial skill for a researcher. After all, what good can we do to the world, if nobody understands what we're doing? That's why I'm starting this little blog: I want to be able to share all the exciting stuff I'm working on with everyone who'd like to hear a little more about games. How we make them, what they mean to us, and especially, how **games can pleasantly surprise us**.
 
 ![](img/post/strawberry-cake.png)
 
-Going back to that intro story, I believe I finally can  explain the core ideas behind my research in a way that is accessible, even for my gameoskeptic aunt. The answer was right under my nose, in the form of a **strawberry shortcake**.
+Going back to that intro story, I believe I can  explain the core ideas behind my research in a way that is accessible, even for my gameoskeptic aunt. The answer was right under my nose, on the table. A **strawberry shortcake**.
 
 ## 1.  Playing is like Eating
 
@@ -71,8 +71,7 @@ But where can you get ingredients? Where do these strawberries come from?
 "*At the farmer's market, duh!*" Great cooks have the skill to carefully choose their ingredients and to assess their quality. In the game world, designers too are always on the lookout for interesting ideas that they can use as ingredients for their games.
 
 But where do these ingredients *actually* come from?
-Cooks rarely grow their own food — it's someone else's job.    
-But game designers don't have this commodity. Their work is not only to think about the composition of their rule-ingredients, they also have to create them from scratch each time! They have **both the job of a gardener and a cook**.
+Cooks rarely grow their own food — it's someone else's job. However, game designers don't have this commodity. Their work is not only to think about the composition of their rule-ingredients, they also have to create them from scratch each time! They have **both the job of a gardener and a cook**.
 
 A bit unfair, right?
 
