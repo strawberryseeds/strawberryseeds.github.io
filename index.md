@@ -1,3 +1,4 @@
+
 # My Jam? Planting Strawberry Seeds.
 
 ![Two Animal Crossing characters by a campfire, eating fish. One asks the other: "So, what's your PhD about?"](img/post/animal-crossing-phd.png)
@@ -38,7 +39,9 @@ In the end, whether it is by playing or  by eating, you're consuming **a good th
 
 ## 2.  Game Design is like Cooking
 
-  ![Breath of the Wild" Character throwing ingredients in a pot to create a meal.](img/post/botw-cooking.gif)
+<div style="text-align:center">
+<img src="img/post/botw-cooking.gif" alt="Breath of the Wild" Character throwing ingredients in a pot to create a meal." />
+</div>
 
 Making meals and making games are both crafts that requires you to spend time mastering them. It is very easy when you're a beginner to try making complex productions, only to be disappointed in the result. But like all craft, cooking and game design require you to be patient, to learn things step by step, and to fail a lot.
 
@@ -47,7 +50,7 @@ The reason behind that is that fundamentally, they are **complex alchemies**: yo
 
 ### Surprising combinations
 
-  ![Illustration of a peanut butter and jelly sandwhich.](img/post/strawberry-cream.png)
+  ![Illustration of a strawberry in cream](img/post/strawberry-cream.png)
 
   If you make a cup of strawberries and cream, you might already have a very good idea of how it will taste. But what about **white chocolate and caviar**? Would it taste good?
 
@@ -68,10 +71,12 @@ But where can you get ingredients? Where do these strawberries come from?
 
 ![Plants growing, from the game Viridi](img/post/viridi-grow.gif)
 
-"*At the farmer's market, duh!*" Great cooks have the skill to carefully choose their ingredients and to assess their quality. In the game world, designers too are always on the lookout for interesting ideas that they can use as ingredients for their games.
+"*At the farmer's market, duh!*"
+
+Indeed, great cooks also have the skill to carefully choose their ingredients and to assess their quality. In the game world, designers too are always on the lookout for interesting ideas that they can use as ingredients for their games.
 
 But where do these ingredients *actually* come from?
-Cooks rarely grow their own food — it's someone else's job. However, game designers don't have this commodity. Their work is not only to think about the composition of their rule-ingredients, they also have to create them from scratch each time! They have **both the job of a gardener and a cook**.
+Cooks rarely grow their own food — it's someone else's job. However, game designers don't have this commodity. Their work is not only to think about the composition of their game-ingredients, they also have to create them from scratch each time! They have **both the job of a gardener and a cook**.
 
 A bit unfair, right?
 
@@ -83,9 +88,13 @@ This whole field of research is named _Procedural Generation_ and raises a lot o
 
 I'll do my best to share my findings with you, so keep an eye on **[Strawberry Seeds](http://strawberryseeds.github.io)** !
 
-![Plants growing, from the game Viridi](img/post/younès-avatar.png)
+<img src="img/post/younès-avatar.png " alt="An avatar of me, made with picrew " width="250px">
 
-Younès Rabii - Contact (Twitter, Mail)
+
+_**Younès Rabii** is a game designer and PhD student at the Doctoral Centre for Intelligence in Games and Games Intelligence._
+
+- Mail: [yrabii.eggs@gmail.com](mailto:yrabii.eggs@gmail.com)
+- Twitter: [@Pyrofoux](https://twitter.com/Pyrofoux)
 
 
 
@@ -94,19 +103,12 @@ Younès Rabii - Contact (Twitter, Mail)
 
 1. Animal Crossing: Original by Shelby Brown/CNET. Modified by Younès Rabii.
 
-1. 3. [Strawberry Shortcake](https://www.pngegg.com/en/png-brbho/download)
+1. "Strawberry Shortcake" from pngegg.com
 
-1. (Modded) Witcher 3: Screenshot by u/Outspokenbeef15 on Reddit.
+1. Witcher 3: Screenshot by u/Outspokenbeef15 on Reddit.
 
-1. [Strawberry Cream](https://www.pngegg.com/en/png-brbho/download)
+1. Diagram by Younès Rabii
+
+1. "Strawberry Cream" from pngegg.com
 
 1. Viridi - Ice Water Games
-
-
-
-Note:
-- Context: blog work-in progress
-- Theme CSS?
-- Image check (dimension)
-- Credits
-- Fin: expliquer pourquoi Strawberry seeds, ou juste réserver ça pour l'article étendu / une section à propos ? "I made this blogpost comparing Making games to cooking and I believe this analogy is powerful"
